@@ -1,0 +1,6 @@
+Hello from ZCode!
+=================
+This file was created and pushed via ZCode CLI,
+routed through Huawei enterprise proxy to GitHub.
+
+Date: 2026-07-01
